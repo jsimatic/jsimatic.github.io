@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  # title:
+  # description:
+  keywords: []
+  authors: ["Jean Simatic"]
+  github: https://github.com/jsimatic/jsimatic.github.io
+  # bibliography: []
+site:
+  template: book-theme
+  title: jsimatic.gh.io 🐱‍👓
+  # options:
+  #   logo: site_logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
