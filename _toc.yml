@@ -1,0 +1,13 @@
+root: README
+format: jb-book
+defaults:
+  numbered: false
+parts:
+- caption: Programming
+  chapters:
+- caption: Team Work
+  chapters:
+- caption: Management
+  chapters:
+- caption: About me
+  chapters:
