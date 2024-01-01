@@ -11,3 +11,6 @@ parts:
   chapters:
 - caption: About me
   chapters:
+  - file: about/CV
+  - file: about/projects
+  - file: about/research
