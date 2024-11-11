@@ -7,6 +7,7 @@ parts:
   chapters:
 - caption: Team Work
   chapters:
+  - file: team/shape_up
 - caption: Management
   chapters:
 - caption: About me
