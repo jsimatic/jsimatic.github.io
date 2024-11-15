@@ -4,6 +4,10 @@
 
 In an agile mindset, my team regularly reflects on how to improve our way of working. Currently, it is derived from Scrum but with some accomodations and still some pain points. This post summarizes the Shape Up methodology[^shapeup], in particular with respect to Scrum, before exploring ways we could enrich our workflow.
 
+Thanks to [Glenn F. Henriksen](https://github.com/henriksen) for his great talk on Shape Up[^nobacklog], which I immediately added to my [playlist on agility](https://youtube.com/playlist?list=PLSV9dt-aYRC5dHpkeXhqfEA2wLLF4QQ9l).
+
+[^nobacklog]: Glenn F. Henriksen, "Ditch your Backlog and Shape Up your product development" CPH DevFest 2024. https://youtu.be/czd26hnEiiM
+
 [^shapeup]: Ryan Singer "Shape Up Stop Running in Circles and Ship Work that Matters" https://basecamp.com/shapeup
 
 ## Definition
