@@ -5,6 +5,7 @@ defaults:
 parts:
 - caption: Programming
   chapters:
+  - file: programming/first_agent_experiments
 - caption: Team Work
   chapters:
   - file: team/shape_up
